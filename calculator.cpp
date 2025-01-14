@@ -16,7 +16,7 @@ int main()
     string subtraction;
     string division;
 
-    cout << "Please choose a number" << endl;
+    cout << "Select a number" << endl;
     cout << "1. muliplication" << endl;
     cout << "2. addition" << endl;
     cout << "3. subtraction" << endl;
